@@ -4,6 +4,8 @@
 	font-size: 20px;
 	color: salmon;
 	line-height: 20px;
+	padding: 20px;
+	border-radius: 50px;
 }
 
 
@@ -14,6 +16,8 @@
 	font-size: 30px;
 	color: navy;
 	line-height: 30px;
+	padding: 10px 10px;
+	border-radius: 25px; 
 }
 
 
@@ -23,7 +27,9 @@
 	font-family: arial;
 	font-size: 15px;
 	color: tomato;
-	line-height: 67px;
+	line-height: 18pxpx;
+	padding: 50px;
+	border-radius: 100px;
 }
 
 
@@ -34,6 +40,8 @@
 	font-size: 18px;
 	color: maroon;
 	line-height: 45px;
+	padding: 30px 80px 10px 15px;
+	border-radius: 200px;
 }
 
 
@@ -44,4 +52,6 @@
 	font-size: 23px;
 	color: darkgreen;
 	line-height: 65px;
+	padding: 100px;
+	border-radius: 500px
 }
