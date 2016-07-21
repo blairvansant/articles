@@ -1,6 +1,8 @@
 .art1 {
 	background-color: lavender;
 	font-family: times;
+	font-size: 20px;
+	color: salmon;
 }
 
 
@@ -8,6 +10,8 @@
 .art2 {
 	background-color: gold;
 	font-family: cursive;
+	font-size: 30px;
+	color: cyan;
 }
 
 
@@ -15,6 +19,8 @@
 .art3 {
 	background-color: limegreen;
 	font-family: arial;
+	font-size: 15px;
+	color: tomato;
 }
 
 
@@ -22,6 +28,8 @@
 .art4 {
 	background-color: orange;
 	font-family: impact;
+	font-size: 18px;
+	color: skyblue;
 }
 
 
@@ -29,4 +37,6 @@
 .art5 {
 	background-color: skyblue;
 	font-family: "Avant Garde";
+	font-size: 23px;
+	color: darkgreen;
 }
