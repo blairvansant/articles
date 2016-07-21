@@ -3,6 +3,7 @@
 	font-family: times;
 	font-size: 20px;
 	color: salmon;
+	line-height: 20px;
 }
 
 
@@ -12,6 +13,7 @@
 	font-family: cursive;
 	font-size: 30px;
 	color: navy;
+	line-height: 30px;
 }
 
 
@@ -21,6 +23,7 @@
 	font-family: arial;
 	font-size: 15px;
 	color: tomato;
+	line-height: 67px;
 }
 
 
@@ -30,6 +33,7 @@
 	font-family: impact;
 	font-size: 18px;
 	color: maroon;
+	line-height: 45px;
 }
 
 
@@ -39,4 +43,5 @@
 	font-family: "Avant Garde";
 	font-size: 23px;
 	color: darkgreen;
+	line-height: 65px;
 }
