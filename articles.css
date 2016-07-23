@@ -1,0 +1,57 @@
+.art1 {
+	background-color: lavender;
+	font-family: times;
+	font-size: 20px;
+	color: salmon;
+	line-height: 20px;
+	padding: 20px;
+	border-radius: 50px;
+}
+
+
+
+.art2 {
+	background-color: gold;
+	font-family: cursive;
+	font-size: 30px;
+	color: navy;
+	line-height: 30px;
+	padding: 10px 10px;
+	border-radius: 25px; 
+}
+
+
+
+.art3 {
+	background-color: limegreen;
+	font-family: arial;
+	font-size: 15px;
+	color: tomato;
+	line-height: 18pxpx;
+	padding: 50px;
+	border-radius: 100px;
+}
+
+
+
+.art4 {
+	background-color: orange;
+	font-family: impact;
+	font-size: 18px;
+	color: maroon;
+	line-height: 45px;
+	padding: 30px 80px 10px 15px;
+	border-radius: 200px;
+}
+
+
+
+.art5 {
+	background-color: skyblue;
+	font-family: "Avant Garde";
+	font-size: 23px;
+	color: darkgreen;
+	line-height: 65px;
+	padding: 100px;
+	border-radius: 500px
+}
